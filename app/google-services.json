@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502330700060",
+    "firebase_url": "https://skhu-app-4a95e.firebaseio.com",
+    "project_id": "skhu-app-4a95e",
+    "storage_bucket": "skhu-app-4a95e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502330700060:android:31d0a6ccabeeed3f4bcad9",
+        "android_client_info": {
+          "package_name": "net.skhu.e04firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502330700060-h6atug7638fsm38hh6n27q9tfatoq770.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2RxKwNRX7IL7ljub4EFDWGakKI4fRsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502330700060-h6atug7638fsm38hh6n27q9tfatoq770.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
